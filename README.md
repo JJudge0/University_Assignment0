@@ -1,5 +1,6 @@
-# Assignment0
-The Task
+##Assignment Task
+##Assignment Name: Formative Task 0
+
 You and your team should work together to design the algorithm and implement a Java program that works in a similar way to a calculator.
 The Calculator should be able to perform the following operations:
 1. Addition, subtraction, multiplication, and division of two numbers [Subtask 1]
