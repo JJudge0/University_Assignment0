@@ -1,4 +1,5 @@
 	public static void  Conversion_Decimal_to_Hexadecimal()
+		// This code shows the decimal to hexadecimal function of given values
 	{
 		Scanner input1 = new Scanner( System.in );
 		System.out.println("Conversion from Denary to Hexadecimal");
@@ -39,7 +40,8 @@
 	}	
 
 	public static boolean intchecker2(String number)    
-	{
+		//this is a checker if the input of the user is incorrect it will ask the user to retype the correct input
+	{     
 		Boolean check2= false;
 		try 
 		{
