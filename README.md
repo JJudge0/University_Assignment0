@@ -12,6 +12,9 @@ The Calculator should be able to perform the following operations:
 4. Conversions between Metric and Imperial units for mass (g/oz) and length (cm/inches).
 ## [Subtask 5]
 5. Conversion of a decimal number to binary.
-9. Conversion of a binary number to decimal [Subtask 6]
-10. Conversion of a decimal number to hexadecimal [Subtask 7]
-11. Conversion of a hexadecimal number to decimal [Subtask 8]
+## [Subtask 6]
+6. Conversion of a binary number to decimal.
+## [Subtask 7]
+7. Conversion of a decimal number to hexadecimal.
+## [Subtask 8]
+8. Conversion of a hexadecimal number to decimal.
