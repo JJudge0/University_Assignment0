@@ -1,4 +1,5 @@
 	public static void Conversion_Hexadecimal_to_Decimal()
+	// This code shows the hexadecimal to decimal function of given values
 	{   
 		System.out.println("Conversion from Hexadecimal to Denary"); 
 		System.out.println("Enter a Hexadecimal number: ");
