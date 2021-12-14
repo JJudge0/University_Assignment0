@@ -1,6 +1,7 @@
 # Assignment0
-The Task
+The Main task
 You and your team should work together to design the algorithm and implement a Java program that works in a similar way to a calculator.
+This shows the full calculator program with a Java swing GUI
 The Calculator should be able to perform the following operations:
 ## [Subtask 1]
 1. Addition, subtraction, multiplication, and division of two numbers.
